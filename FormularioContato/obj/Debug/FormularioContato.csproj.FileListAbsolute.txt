@@ -1,1 +1,25 @@
 C:\Users\Acer\Documents\Visual Studio 2013\Projects\FormularioContato\FormularioContato\bin\Debug\FormularioContato.exe.config
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\FormularioContato.exe.config
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\FormularioContato.exe
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\FormularioContato.pdb
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.Form1.resources
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.frmAddEditContato.resources
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.exe
+C:\Users\Rodrigo\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.pdb
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\FormularioContato.exe.config
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\FormularioContato.exe
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\FormularioContato.pdb
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\EntityFramework.dll
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\EntityFramework.xml
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.csprojResolveAssemblyReference.cache
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.Form1.resources
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.frmAddEditContato.resources
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.Properties.Resources.resources
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.csproj.GenerateResource.Cache
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.exe
+C:\Users\JP\Desktop\ProjetosLauana\TesteScriptionDigital\FormularioContato\obj\Debug\FormularioContato.pdb
